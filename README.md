@@ -1,3 +1,21 @@
+本家は新しいリリースが難航中のため、手動でビルドしたものをホストします。
+
+jsDelivr経由でロードしてください。
+
+usage
+
+```html
+<!-- include libraries(jQuery, bootstrap) first -->
+<!-- ... -->
+
+<!-- include summernote css/js-->
+<link href="https://cdn.jsdelivr.net/gh/linkers-corp/summernote@develop/dist/summernote-bs5.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/gh/linkers-corp/summernote@develop/dist/summernote-bs5.min.js"></script>
+
+```
+
+--------
+
 # Summernote
 
 Super simple WYSIWYG Editor.
